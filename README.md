@@ -12,6 +12,6 @@ o	Leveraging the MERN stack allows for the development of efficient product mana
 
 o	My project specifically targets the implementation of CRUD functionality and the integration of a database tailored for an eCommerce environment. Through this endeavour, I aim to gain a comprehensive understanding of web application creation.
 
-Command to run the client and server
-Client: npm run client
-Server: npm run server
+Command to run the client and server:
+1. Client: npm run client
+2. Server: npm run server
