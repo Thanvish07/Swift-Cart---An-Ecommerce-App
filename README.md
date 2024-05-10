@@ -1,7 +1,7 @@
 # Swift-Cart---An-Ecommerce-App
 MERN Stack Project
 
-	 Introduction:
+❖ Introduction:
 
 o	The objective of this project is to develop an eCommerce application using the MERN stack, encompassing all CRUD operations. 
 
