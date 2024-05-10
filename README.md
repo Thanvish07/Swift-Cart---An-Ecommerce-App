@@ -62,6 +62,7 @@ and interactions with the database.
 
 
 ❖ DATABASE:
+
 o MongoDB: Stores all user data, product information, orders, and 
 interactions within the ecommerce platform.
 
