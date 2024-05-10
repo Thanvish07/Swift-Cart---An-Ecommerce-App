@@ -2,6 +2,7 @@
 MERN Stack Project
 
 	 Introduction:
+
 o	The objective of this project is to develop an eCommerce application using the MERN stack, encompassing all CRUD operations. 
 
 o	The MERN stack, consisting of Node.js, Express.js, MongoDB, and React.js, is widely recognized as an ideal solution for modern eCommerce web development.
